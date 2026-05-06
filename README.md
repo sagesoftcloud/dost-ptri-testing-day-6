@@ -41,3 +41,5 @@ Labs use `t2.micro` (free tier eligible). **Delete all resources after each lab*
 ---
 
 **Start here → [01 - Clone & Push to GitHub](./01-github-push-lab.md)**
+# dost-ptri-day6-cicd
+# dost-ptri-day6-cicd
